@@ -38,6 +38,7 @@
   --color-cream-300: #D8D6CE;
   --color-ink:       #26251e;
   --color-ink-50:    rgba(38, 37, 30, 0.5);
+  --color-purple-500: #712FFD;
 
   /* ── Semantic — purpose-based, reference primitives ──
    * These are the tokens you use in components.
@@ -47,7 +48,7 @@
   --color-text-primary:   var(--color-ink);
   --color-text-muted:     var(--color-ink-50);
   --color-text-secondary: var(--color-gray-500);
-  --color-action-primary:          var(--color-gray-900);
+  --color-action-primary:          var(--color-purple-500);
   --color-action-primary-hover:    var(--color-gray-700);
   --color-action-secondary:        var(--color-cream-200);
   --color-action-secondary-hover:  var(--color-cream-300);

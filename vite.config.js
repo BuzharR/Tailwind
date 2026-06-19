@@ -47,4 +47,7 @@ export default defineConfig({
     debugLogPlugin(),
   ],
   root: 'src',
+  server: {
+    strictPort: true,
+  },
 });
